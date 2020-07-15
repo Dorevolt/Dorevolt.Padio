@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dorevolt.Padio", "Dorevolt.Padio\Dorevolt.Padio.csproj", "{B9157CFB-4458-4883-9435-31C4F8E9F605}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dorevolt.Padio.DAL", "Dorevolt.Padio.DAL\Dorevolt.Padio.DAL.csproj", "{39552A04-6671-47C5-8431-F340280D95A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9157CFB-4458-4883-9435-31C4F8E9F605}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9157CFB-4458-4883-9435-31C4F8E9F605}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9157CFB-4458-4883-9435-31C4F8E9F605}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9157CFB-4458-4883-9435-31C4F8E9F605}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39552A04-6671-47C5-8431-F340280D95A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39552A04-6671-47C5-8431-F340280D95A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39552A04-6671-47C5-8431-F340280D95A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39552A04-6671-47C5-8431-F340280D95A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97495A13-3184-406A-AC74-72CC8B380505}
+	EndGlobalSection
+EndGlobal
